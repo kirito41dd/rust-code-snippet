@@ -1,0 +1,11 @@
+[package]
+name = "use-async"
+version = "0.1.0"
+authors = ["kirito <1026860069@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+futures = "0.3" # async 需要的依赖
+rand = "0.3"
